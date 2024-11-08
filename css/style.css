@@ -1,0 +1,152 @@
+.Logo {
+    height: 60px;
+    width: 60px;
+
+}
+
+.nav-item {
+
+    border: 1.7px;
+    border-color: aqua;
+    border-style: solid;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: lightcoral;
+
+}
+
+.nav-link {
+    color: bisque;
+}
+
+.container-fluid {
+    background-color: darkslategrey;
+
+}
+
+.navbar-brand {
+    color: lightcoral;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bgimage {
+    background-image: url('/image/pic2.png');
+    height: 90vh;
+}
+
+
+.techgirly-img {
+    border-radius: 20px;
+}
+
+.section-heading {
+    background-color: lightcoral;
+}
+
+/* footer {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    gap: 2px;
+
+} */
+
+/* .Gridbox4 {
+    background-color: rosybrown;
+    color: maroon;
+    text-align: center;
+
+} */
+
+.LIST .foot-nav {
+    padding: 15px;
+}
+
+.footer {
+    background-color: bisque;
+    padding-top: 10px;
+}
+
+
+.LIST a {
+    text-decoration: none;
+    color: darkred;
+    font-size: medium;
+    text-align: center;
+
+}
+
+.LIST img {
+    height: 30px;
+    width: 30px;
+}
+
+.LIST {
+    list-style-type: none;
+}
+
+.linknav {
+    text-decoration: none;
+    color: maroon;
+}
+
+.contactlink {
+    text-decoration: none;
+    color: darkred;
+    text-align: center;
+}
+
+/* about page styling */
+.aboutstyle {
+    text-align: center;
+    background-color: white;
+    /* padding: 50px 50px 50px 400px; */
+    font-family: 'Courier New', Courier, monospace;
+    color: maroon;
+    /* clear: both; */
+    /* width: 1000px; */
+
+}
+
+/* SUPPORT PAGE STYLING */
+.headsupport {
+    background-color: darkslategrey;
+    padding: 50px;
+    text-align: center;
+    color: lightcoral;
+
+
+}
+
+.supportstyle {
+    background-color: white;
+    /* padding: 25px 100px 100px 100px; */
+    padding-top: 20px;
+    color: maroon;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+/* CONTACT PAGE STYLING */
+/* #contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+} */
+
+
+.contact-item .container .container-img {
+    padding: 20px;
+}
+
+.contact-item .container a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.image {
+
+    height: 50px;
+    width: 50px;
+}
