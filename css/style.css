@@ -32,7 +32,7 @@
 
 .bgimage {
     /* background-image: url('/image/pic2.png'); */
-    background-image: url('/image/pic2.png');
+    background-image: url('../image/pic2.png');
     height: 90vh;
 }
 
